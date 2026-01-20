@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     openGraph: {
         type: "website",
         locale: "de_DE",
-        url: "https://www.weimar-graf.de",
+        url: "https://www.elektroserviceweimargrafgbr.de",
         siteName: "Weimar & Graf Elektroservice GbR",
         title: "Weimar & Graf Elektroservice GbR | Elektro Komplett Installation",
         description: "Ihr zertifizierter Meisterbetrieb für Elektroinstallationen. Junges, dynamisches Team für moderne Elektrotechnik in Ebsdorfergrund und Umgebung.",
@@ -109,7 +109,7 @@ export const metadata: Metadata = {
 
     // Alternate Languages (if applicable)
     alternates: {
-        canonical: "https://www.weimar-graf.de",
+        canonical: "https://www.elektroserviceweimargrafgbr.de",
     },
 
     // Other
@@ -127,7 +127,7 @@ const jsonLd = {
     "@type": "Electrician",
     name: "Weimar & Graf Elektroservice GbR",
     description: "Zertifizierter Meisterbetrieb für Elektroinstallationen, Gebäudesystemtechnik und Smart Home Lösungen.",
-    url: "https://www.weimar-graf.de",
+    url: "https://www.elektroserviceweimargrafgbr.de",
     telephone: "+49 151 59872742",
     email: "elektroserviceweimargraf@gmail.com",
     address: {

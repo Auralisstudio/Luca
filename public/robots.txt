@@ -1,5 +1,5 @@
 # Robots.txt for Weimar & Graf Elektroservice GbR
-# https://www.weimar-graf.de
+# https://www.elektroserviceweimargrafgbr.de
 
 # Allow all search engines
 User-agent: *
@@ -10,7 +10,7 @@ Disallow: /api/
 Disallow: /_next/
 
 # Sitemap location
-Sitemap: https://www.weimar-graf.de/sitemap.xml
+Sitemap: https://www.elektroserviceweimargrafgbr.de/sitemap.xml
 
 # Crawl-delay (optional, for polite crawling)
 Crawl-delay: 1
