@@ -1,0 +1,30 @@
+{
+    "name": "Weimar & Graf Elektroservice GbR",
+    "short_name": "W&G Elektro",
+    "description": "Ihr zertifizierter Meisterbetrieb für Elektroinstallationen in Ebsdorfergrund und Umgebung.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050505",
+    "theme_color": "#ffaa00",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/logo/logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/logo/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "business",
+        "utilities"
+    ],
+    "lang": "de",
+    "dir": "ltr"
+}
