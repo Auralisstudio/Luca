@@ -34,7 +34,7 @@ export function Footer() {
 
                         <div className="space-y-1.5 sm:space-y-2 text-[11px] sm:text-xs md:text-sm text-white/60 mb-4 sm:mb-6">
                             <p>Hopfengarten 2, 35085 Ebsdorfergrund</p>
-                            <p className="break-all sm:break-words">elektroserviceweimargraf@gmail.com</p>
+                            <p className="break-all sm:break-words">info@elektroserviceweimargrafgbr.de</p>
                             <div className="pt-1 sm:pt-2">
                                 <p>Elektromeister Luca Graf: 0151 59872742</p>
                                 <p>Maximilian Weimar: 0175 7138408</p>

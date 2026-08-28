@@ -32,6 +32,7 @@ export function Header() {
     const navItems = [
         { label: "Home", href: "#home" },
         { label: "Leistungen", href: "#services" },
+        { label: "Unsere Arbeit", href: "#work" },
         { label: "Über uns", href: "#about" },
         { label: "Kontakt", href: "#contact" },
     ]

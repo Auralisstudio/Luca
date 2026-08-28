@@ -65,7 +65,7 @@ export default function Datenschutz() {
                             Weimar & Graf Elektroservice GbR<br />
                             Hopfengarten 2<br />
                             35085 Ebsdorfergrund<br /><br />
-                            E-Mail: elektroserviceweimargraf@gmail.com
+                            E-Mail: info@elektroserviceweimargrafgbr.de
                         </p>
                     </div>
                 </section>

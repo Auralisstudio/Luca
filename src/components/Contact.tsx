@@ -22,8 +22,8 @@ const contactInfo = [
     {
         icon: Mail,
         title: "E-Mail",
-        content: "elektroserviceweimargraf@gmail.com",
-        link: "mailto:elektroserviceweimargraf@gmail.com",
+        content: "info@elektroserviceweimargrafgbr.de",
+        link: "mailto:info@elektroserviceweimargrafgbr.de",
         gradient: "from-purple-500 to-pink-500",
     },
     {
@@ -53,7 +53,7 @@ export function Contact() {
         e.preventDefault()
         const subject = `Anfrage von ${formData.name}`
         const body = `${formData.message}\n\nKontakt-Email: ${formData.email}`
-        window.location.href = `mailto:elektroserviceweimargraf@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+        window.location.href = `mailto:info@elektroserviceweimargrafgbr.de?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
     }
 
     const handleChange = (e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {

@@ -129,7 +129,7 @@ const jsonLd = {
     description: "Zertifizierter Meisterbetrieb für Elektroinstallationen, Gebäudesystemtechnik und Smart Home Lösungen.",
     url: "https://www.elektroserviceweimargrafgbr.de",
     telephone: "+49 151 59872742",
-    email: "elektroserviceweimargraf@gmail.com",
+    email: "info@elektroserviceweimargrafgbr.de",
     address: {
         "@type": "PostalAddress",
         streetAddress: "Hopfengarten 2",

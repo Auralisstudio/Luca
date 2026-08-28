@@ -39,7 +39,7 @@ export default function Impressum() {
                     <div className="text-white/70 space-y-2">
                         <p>Telefon: 0151 59872742 (Luca Graf)</p>
                         <p>Telefon: 0175 7138408 (Maximilian Weimar)</p>
-                        <p>E-Mail: <a href="mailto:elektroserviceweimargraf@gmail.com" className="hover:text-amber-400 transition-colors">elektroserviceweimargraf@gmail.com</a></p>
+                        <p>E-Mail: <a href="mailto:info@elektroserviceweimargrafgbr.de" className="hover:text-amber-400 transition-colors">info@elektroserviceweimargrafgbr.de</a></p>
                     </div>
                 </section>
 
